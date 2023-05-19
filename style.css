@@ -33,6 +33,9 @@ img {
 }
 
 /* sidebar */
+#sidebar * {
+  color: white;
+}
 
 /* header */
 
